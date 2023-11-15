@@ -4,7 +4,7 @@
 
 [Enlace classroom](https://classroom.github.com/classrooms/149103980-ull-mfp-aet-2324-alu0100773231)
 
-[Enlace asignatura organización](https://ull-mfp-aet-2324-alu0100773231.github.io/)
+[Enlace asignatura organizacion](https://ull-mfp-aet-2324-alu0100773231.github.io/)
 
 [Enlace asignatura 2](https://ull-mfp-aet-2324.github.io/asignatura-website-paola-gonzalez-colli-0100773231/)
 
