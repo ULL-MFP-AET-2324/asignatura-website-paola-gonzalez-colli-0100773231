@@ -6,6 +6,6 @@
 
 [Enlace asignatura organizacion](https://ull-mfp-aet-2324-alu0100773231.github.io/)
 
-[Enlace asignatura 2](https://ull-mfp-aet-2324.github.io/asignatura-website-paola-gonzalez-colli-0100773231/)
+[Enlace asignatura](https://ull-mfp-aet-2324.github.io/asignatura-website-paola-gonzalez-colli-0100773231/)
 
 [Enlace organización](https://github.com/ull-mfp-aet-2324-alu0100773231)
