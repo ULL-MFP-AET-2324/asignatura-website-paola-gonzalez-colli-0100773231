@@ -5,7 +5,7 @@ light: true
 description: 'Apuntes Tecnología'
 acronym: AT
 exclude: [ '_drafts/2021/', '_drafts/2020' ]
-baseurl: '/asignatura-website-paola-gonzalez-colli-0100773231/' # '/introduccion'
+baseurl:  # '/introduccion'
 #url: https://ull-mfp-aet-2223.github.io/ull-mfp-aet-2223.github.io
 guia_docente: 
 show_downloads: false
@@ -15,20 +15,20 @@ calendario_examenes:
 horarios_tutorias:
 google_plus: https://plus.google.com/u/1/communities/101901734024125937720
 organization: 
-  url: https://github.com/ULL-MFP-AET-2223
-  name: ULL-MFP-AET-2223
+  url: https://github.com/ULL-MFP-AET-2324
+  name: ULL-MFP-AET-2324
   master: https://github.dev/ULL-MFP-AET/ull-mfp-aet.github.io/blob/main/
 
 profesor: "https://www.ull.es/apps/guias/guias/view_teacher_niu/984/crguezl/"
-profesor_github: crguezl
+profesor_github: Paolacolli
 chat: https://chat.google.com
 future: true
 disqus: 
   url: https://procesadores-de-lenguajes.disqus.com/embed.js
   comments: true
 classroom: 
-  url: "https://classroom.github.com/classrooms/108617085-ull-mfp-aet-2223"
-  name: ULL-MFP-AET-2223
+  url: "https://classroom.github.com/classrooms/149103980-ull-mfp-aet-2324-alu0100773231"
+  name: ULL-MFP-AET-2324
 collections:
   tareas:
     output: true
